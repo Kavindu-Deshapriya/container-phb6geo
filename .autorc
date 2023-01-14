@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Kavindu-Deshapriya",
+  "repo": "container-phb6geo",
+  "name": "Kavindu-Deshapriya",
+}
